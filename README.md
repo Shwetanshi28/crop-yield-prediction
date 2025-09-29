@@ -64,7 +64,6 @@ An end-to-end data science solution that predicts crop yields with 92.1% accurac
 - Microsoft Excel 2016+
 
 **Database Setup:**
-```sql
 source SQL/database_schema.sql
 
 R Environment: install.packages(c("DBI", "RMySQL", "tidyverse", "caret", "randomForest"))
